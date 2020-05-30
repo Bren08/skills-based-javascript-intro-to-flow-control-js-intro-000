@@ -51,4 +51,4 @@ function switchAge(age) {
 
   }
 }
-switchAge(12);
+switchAge(14);
