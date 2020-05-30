@@ -15,15 +15,15 @@ function teenager(age) {
 teenager(19);
 
 function ageChecker(age) {
-  if (age < 9) {
+  if (age < 19) {
     return "You are a teenager!";
-  }else if (age > 12) {
+  }else if (age > 19) {
     return "You are a grownup";
   }else {
     return "You are a kid";
   }
 }
-ageChecker(10)
+ageChecker(13)
 function ternaryTeenager(age) {
   return (age <= 19) ? "You are a teenager" : "You are not a teenager";
 }
