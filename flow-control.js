@@ -51,4 +51,4 @@ function switchAge(age) {
 
   }
 }
-switchAge(24);
+// switchAge(24);
